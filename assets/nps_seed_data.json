@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "teacher": "",
+    "minutes": 40,
+    "session": ""
+  },
+  "library": [],
+  "holidays": [],
+  "history": {
+    "chapters": [],
+    "topics": []
+  }
+}
